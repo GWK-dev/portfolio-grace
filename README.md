@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This site was built from scratch using
 
 ## 🌐 Live Site
 
-🔗 [View My Portfolio](https://github.com/GWK-dev/portfolio-grace.git)
+🔗 [View My Portfolio](https://gwk-dev.github.io/portfolio-grace/)
 
 ---
 
